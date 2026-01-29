@@ -1,0 +1,20 @@
+{
+    "asset": "25bdcc5c8ba4b044ca5c852713aec357",
+    "fileName": "0198e6af-e2f8-7b21-8453-05106326254e.png",
+    "prompt": "Bust portrait of a stylized robot character with red eyes and grey materials for the head, minimalist styled.",
+    "negativePrompt": "",
+    "model": "63e0d07e-8325-4abf-960f-03a6fca8cc63",
+    "modelName": "Sticker Icons",
+    "customSeed": -1,
+    "w3CTraceId": "04766c3b9a139d028a78c953b8dabd90",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

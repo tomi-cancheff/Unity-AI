@@ -1,0 +1,11 @@
+{
+    "asset": "89c809aa5d7ceca41b639110a20b84b8",
+    "fileName": "0198e684-6364-72d1-81ce-981fdc557878.pose.json",
+    "prompt": "A robotic-like waving and salute animation.",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1019985290,
+    "w3CTraceId": "82915f88f0bb33aaf8ea1e6d98d14f8d",
+    "isTrimmed": false
+}

@@ -1,0 +1,20 @@
+{
+    "asset": "72f8029113fae314a95d646179bcd5c2",
+    "fileName": "0198e6aa-bae5-790d-8d68-addfeca81463.png",
+    "prompt": "Create a highly detailed, futuristic cyberpunk cityscape texture. The scene should feature neon lights and glowing signs in vibrant but balanced colors, with towering skyscrapers and intricate architectural details. Include a mix of holographic advertisements, glowing windows, and reflective surfaces to enhance the cyberpunk aesthetic. The overall color palette should emphasize blues, purples, and pinks, with accents of green and orange, while avoiding oversaturation. The texture should evoke a sense of depth and atmosphere, with subtle fog or haze to add realis",
+    "negativePrompt": "",
+    "model": "4d662a89-b8ca-4652-a119-f3963d923bbb",
+    "modelName": "Bold Line Environments",
+    "customSeed": -1,
+    "w3CTraceId": "01b30ab60a67bf8467e187e70be4a639",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

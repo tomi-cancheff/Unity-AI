@@ -1,0 +1,20 @@
+{
+    "asset": "3ab3feb9e85d27f48bdfd3d8252c990b",
+    "fileName": "0198ebc7-ce81-7c6d-8cf0-4a9bfcb49b71.jpg",
+    "prompt": "A sprite of a '+' sign for a zoom-in button in a game UI.",
+    "negativePrompt": "",
+    "model": "81c7bc50-f1fa-4e43-96be-2baa3f6233b6",
+    "modelName": "UI Frame Generator",
+    "customSeed": -1,
+    "w3CTraceId": "89575c422939eb97b062a976f693e5fc",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

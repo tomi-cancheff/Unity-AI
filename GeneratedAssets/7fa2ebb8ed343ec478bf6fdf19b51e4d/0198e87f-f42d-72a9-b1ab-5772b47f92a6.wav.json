@@ -1,0 +1,13 @@
+{
+    "asset": "7fa2ebb8ed343ec478bf6fdf19b51e4d",
+    "fileName": "0198e87f-f42d-72a9-b1ab-5772b47f92a6.wav",
+    "prompt": "Cyberpunk ambience sound with distortion sections and suspense.",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "b60fbc042e491b229348a474d1821bc1",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

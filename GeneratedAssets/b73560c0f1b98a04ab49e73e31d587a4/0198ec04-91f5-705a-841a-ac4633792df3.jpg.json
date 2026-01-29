@@ -1,0 +1,20 @@
+{
+    "asset": "b73560c0f1b98a04ab49e73e31d587a4",
+    "fileName": "0198ec04-91f5-705a-841a-ac4633792df3.jpg",
+    "prompt": "UI icon for rotating the character to the left, resembling an arrow pointing counterclockwise.",
+    "negativePrompt": "",
+    "model": "81c7bc50-f1fa-4e43-96be-2baa3f6233b6",
+    "modelName": "UI Frame Generator",
+    "customSeed": -1,
+    "w3CTraceId": "8a8c9a8af1bc980c17c705904f10418c",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

@@ -1,0 +1,20 @@
+{
+    "asset": "ce09b1235bd15e94f9b52a594e67bc75",
+    "fileName": "0198e694-d2ac-7520-862a-9c9827bc518b.jpg",
+    "prompt": "Vibrant, full of life, cyberpunk city at night with neon tones and futuristic - dark look",
+    "negativePrompt": "clouds,text,birds,animals, bright or over saturated colors",
+    "model": "f404f5d5-b163-46df-abe8-38d19973d9d6",
+    "modelName": "Game Backgrounds - IV",
+    "customSeed": -1,
+    "w3CTraceId": "6eab5a471fa4a34335d21244415d4b70",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

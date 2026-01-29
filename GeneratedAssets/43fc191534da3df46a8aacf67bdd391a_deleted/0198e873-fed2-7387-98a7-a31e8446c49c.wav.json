@@ -1,0 +1,13 @@
+{
+    "asset": "43fc191534da3df46a8aacf67bdd391a",
+    "fileName": "0198e873-fed2-7387-98a7-a31e8446c49c.wav",
+    "prompt": "An ambience background sound for a cyberpunk city, filled with a crowd and cars passing by. Also contains people talking on the streets.",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "ea99b73bfa7d0f2107e81874e1d03465",
+    "duration": 9.5,
+    "autoTrim": true,
+    "hasReference": false
+}

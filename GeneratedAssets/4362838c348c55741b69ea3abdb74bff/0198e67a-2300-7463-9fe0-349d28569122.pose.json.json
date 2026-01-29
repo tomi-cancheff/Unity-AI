@@ -1,0 +1,11 @@
+{
+    "asset": "4362838c348c55741b69ea3abdb74bff",
+    "fileName": "0198e67a-2300-7463-9fe0-349d28569122.pose.json",
+    "prompt": "Standing still, gently breathing and swaying. Robotic movements every often.",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1287306412,
+    "w3CTraceId": "acfbf7673f44fccfa8b566ce1eae2cdc",
+    "isTrimmed": false
+}

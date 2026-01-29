@@ -1,0 +1,11 @@
+{
+    "asset": "96b43c07d1239f54497759208ff77c67",
+    "fileName": "0198e682-31a3-7005-bffb-7950b93859e8.pose.json",
+    "prompt": "A robotic-like dancing animation, with moving arms and head rotating 360 degrees. Also moving legs and head time to time with a robotic Style.",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1532086233,
+    "w3CTraceId": "d70ad2acec2796f18c8a3c7afc9848d9",
+    "isTrimmed": false
+}

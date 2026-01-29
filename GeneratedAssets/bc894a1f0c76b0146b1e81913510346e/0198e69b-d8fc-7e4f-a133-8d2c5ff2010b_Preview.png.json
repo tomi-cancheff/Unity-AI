@@ -1,0 +1,11 @@
+{
+    "asset": "bc894a1f0c76b0146b1e81913510346e",
+    "fileName": "0198e69b-d8fc-7e4f-a133-8d2c5ff2010b_Preview.png",
+    "prompt": "metallic floor with scratches and cyberpunk-styled.",
+    "negativePrompt": "grass,animals,holes.",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 119784937,
+    "w3CTraceId": "09e6cc70c3b13928b142df8e6b2fd736",
+    "refinementMode": "Generation"
+}

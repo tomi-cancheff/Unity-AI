@@ -1,0 +1,13 @@
+{
+    "asset": "acb51f5f03ebde74bb3419b7039cfa52",
+    "fileName": "0198ec63-ddcc-75be-8600-3b89d6dab524.wav",
+    "prompt": "VFX explosion sound with robotic details.",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "7639469b102133841e1fc5f5c643af2e",
+    "duration": 1.5299999713897706,
+    "autoTrim": true,
+    "hasReference": false
+}

@@ -1,0 +1,13 @@
+{
+    "asset": "8833254757298c44390f1b4f2986a596",
+    "fileName": "0198e878-6245-7e6e-8576-2d47026c3585.wav",
+    "prompt": "distorted futuristic ambience sound, cyberpunk-themed.",
+    "negativePrompt": "music, reverb, people,cars",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "f79c77094ba8b1c5c4b35f8ee2c6b876",
+    "duration": 6.880000114440918,
+    "autoTrim": true,
+    "hasReference": false
+}

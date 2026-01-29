@@ -1,0 +1,11 @@
+{
+    "asset": "68b5b19fb9635424d96bf72308f89707",
+    "fileName": "0198ebea-70f2-7ce1-9110-1b17094aca41.pose.json",
+    "prompt": "Create a custom animation of a robotic dance for a robot character, emphasizing mechanical movements, synchronized gestures, and futuristic flair.",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1933653431,
+    "w3CTraceId": "5ea23846a3a3b7a072ad82020b17c358",
+    "isTrimmed": false
+}

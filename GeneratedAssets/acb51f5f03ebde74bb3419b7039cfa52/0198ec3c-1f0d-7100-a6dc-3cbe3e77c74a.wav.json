@@ -1,0 +1,13 @@
+{
+    "asset": "acb51f5f03ebde74bb3419b7039cfa52",
+    "fileName": "0198ec3c-1f0d-7100-a6dc-3cbe3e77c74a.wav",
+    "prompt": "An explosion for a character selection confirmation screen, with cyberpunk style or robotic Style.",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "0745d11cfe02a5ededbf0b867d09bb52",
+    "duration": 2.5,
+    "autoTrim": true,
+    "hasReference": false
+}
